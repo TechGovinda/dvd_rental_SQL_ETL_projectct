@@ -1,1 +1,1 @@
-# dvd_rental_SQL_ETL_projectct
+# dvd_rental_SQL_ETL_project
